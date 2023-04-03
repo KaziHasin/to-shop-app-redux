@@ -1,0 +1,32 @@
+
+
+.listContainer {
+    
+    width: 50%;
+    margin: 120px auto 20px;
+    /* background-color:white; */
+    box-shadow: 0 0 34px 21px rgba(0, 0, 0, .1);
+}
+
+.listContainer h2 {
+    padding: 20px 0;
+    border-bottom: 1px solid rgba(0, 0, 0, .2);
+    text-align: center;
+}
+
+.listContainer table {
+    width: 100%;
+   
+}
+
+.listContainer table tr td{
+    
+}
+
+
+@media(max-width: 768px) {
+    .listContainer {
+
+        width: 90%;
+    }
+}
